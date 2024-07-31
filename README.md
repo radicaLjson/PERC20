@@ -1,9 +1,5 @@
 # Swisstronik Tesnet Techinal Task 4 (Mint a PERC20 Token)
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
 EVM :
 
 ```bash
@@ -74,9 +70,4 @@ npm run transfer
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
 
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
