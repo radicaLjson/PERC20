@@ -1,10 +1,5 @@
 # Swisstronik Tesnet Techinal Task 4 (Mint a PERC20 Token)
 
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
 
 ## Steps
 
